@@ -1,4 +1,4 @@
-# Weather Forcast Web App
+# Weather Forecast Web App
 # This is a Weather Report Website Application
 
 This web app fetch weather data from a wesite and then report us.

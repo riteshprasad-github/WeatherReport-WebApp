@@ -2,7 +2,7 @@
 # This is a Weather Report Website Application
 
 This web app fetch weather data from a wesite and then report us.
-Basically this web app calls the API and take the response in json formate 
+Basically this web app calls the API and take the response in json format 
 and then parse the data model and displaying weather report.
 
 Access current weather data for any location on Earth including over 200,000 cities! 
